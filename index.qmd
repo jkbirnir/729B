@@ -2,12 +2,14 @@
 title: ""
 ---
 
-![Syllabus](files/729B_Spring_2023.pdf)
+[Syllabus](files/729B_Spring_2023.pdf)
 
 Github tutorial 
 
-Tutorial 2
+Quarto tutorial
 
-Tutorial 3
+Getting text tutorial
 
-Tutorial 4
+Working with text tutorial
+
+Website tutorial

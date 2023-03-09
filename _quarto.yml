@@ -3,16 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "GVPT729"
+  title: GVPT729
   navbar:
+    background: maroon
+    foreground: white
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: https://johannabirnir.com/
+      - text: "Teaching"
+        href: https://johannabirnir.com/teaching.html
+      - text: "GVPT729"
+        href: index.qmd #href	Link to file contained with the project or external URL.
+
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
 
