@@ -1,11 +1,13 @@
 ---
-title: "GVPT729.1"
+title: ""
 ---
 
-This is a Quarto website.
+![Syllabus](files/729B_Spring_2023.pdf)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Github tutorial 
 
-```{r}
-1 + 1
-```
+Tutorial 2
+
+Tutorial 3
+
+Tutorial 4
