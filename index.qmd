@@ -2,7 +2,7 @@
 title: ""
 ---
 
-[Syllabus Spring2023](files/729B_Spring_2023.pdf)
+[Syllabus Spring 2023](files/729B_Spring_2023.pdf)
 
 Github tutorial 
 
